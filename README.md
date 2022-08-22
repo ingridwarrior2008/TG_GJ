@@ -1,1 +1,2 @@
-# TG_GJ
+# Project Rulebreaker 
+Game Jam Videogame
