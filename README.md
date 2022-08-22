@@ -1,2 +1,1 @@
-# Project Rulebreaker 
-Game Jam Videogame
+# Game Jam Videogame
